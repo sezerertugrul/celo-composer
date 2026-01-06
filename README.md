@@ -84,3 +84,4 @@ pnpm test
 ## License
 
 MIT
+# Run tests
